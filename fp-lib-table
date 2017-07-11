@@ -1,13 +1,2 @@
 (fp_lib_table
-  (lib (name Capacitors_SMD)(type Github)(uri "$(KIGITHUB)/Capacitors_SMD.pretty")(options "")(descr ""))
-  (lib (name Capacitors_Tantalum_SMD)(type Github)(uri "$(KIGITHUB)/Capacitors_Tantalum_SMD.pretty")(options "")(descr ""))
-  (lib (name Housings_SOIC)(type Github)(uri "$(KIGITHUB)/Housings_SOIC.pretty")(options "")(descr ""))
-  (lib (name Resistors_SMD)(type Github)(uri "$(KIGITHUB)/Resistors_SMD.pretty")(options "")(descr ""))
-  (lib (name SMD_Packages)(type Github)(uri "$(KIGITHUB)/SMD_Packages.pretty")(options "")(descr ""))
-  (lib (name Sockets_BNC)(type Github)(uri "$(KIGITHUB)/Sockets_BNC.pretty")(options "")(descr ""))
-  (lib (name TO_SOT_Packages_SMD)(type Github)(uri "$(KIGITHUB)/TO_SOT_Packages_SMD.pretty")(options "")(descr ""))
-  (lib (name Pin_Headers)(type Github)(uri "$(KIGITHUB)/Pin_Headers.pretty")(options "")(descr ""))
-  (lib (name Socket_Strips)(type Github)(uri "$(KIGITHUB)/Socket_Strips.pretty")(options "")(descr ""))
-  (lib (name lbhb)(type KiCad)(uri /auto/users/bburan/equipment/circuits/libraries/lbhb.pretty)(options "")(descr ""))
-  (lib (name Connect)(type Github)(uri "$(KIGITHUB)/Connect.pretty")(options "")(descr ""))
 )
