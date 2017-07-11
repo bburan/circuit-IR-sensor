@@ -1,0 +1,20 @@
+Overview
+--------
+
+This is a circuit that provides power for up to 4 infrared
+emitter/phototransistor pairs. The photodiode current is converted to voltage
+and low-pass filtered cutoff frequency approx. 150 Hz). Holes are designed for
+a 4-40 screw (a common size in standoffs). The circuit is designed to work with
+the OPS693 phototransistor LED/sensor matched pair. The 3D models of the food
+hopper and nose-pokes are designed with the dimensions of the OPS693 in mind.
+This requires a 5VDC power supply.
+
+Assembly
+--------
+
+Design files generated using KiCAD. The Gerber files can be uploaded to a PCB
+manufacturer such as Macrofab. Total cost for a fully assembled circuit from
+Macrofab is roughly $15. Once the assembled board arrives, you'll need to
+either solder wires directly to the holes or use 0.1" (2.54mm) pitch header
+pins. The Pheonix MPT screw terminal blocks also work very well as they have
+the same pin spacing.
