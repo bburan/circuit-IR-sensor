@@ -907,7 +907,7 @@ U 1 1 5E293E2F
 P 4175 1850
 F 0 "U1" H 4175 2217 50  0000 C CNN
 F 1 "LM2902" H 4175 2126 50  0000 C CNN
-F 2 "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" H 4125 1950 50  0001 C CNN
+F 2 "" H 4125 1950 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 4225 2050 50  0001 C CNN
 	1    4175 1850
 	1    0    0    -1  
@@ -918,7 +918,7 @@ U 2 1 5E29F319
 P 4175 3700
 F 0 "U1" H 4175 4067 50  0000 C CNN
 F 1 "LM2902" H 4175 3976 50  0000 C CNN
-F 2 "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" H 4125 3800 50  0001 C CNN
+F 2 "" H 4125 3800 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 4225 3900 50  0001 C CNN
 	2    4175 3700
 	1    0    0    -1  
@@ -929,7 +929,7 @@ U 3 1 5E2A62AF
 P 9375 1900
 F 0 "U1" H 9375 2267 50  0000 C CNN
 F 1 "LM2902" H 9375 2176 50  0000 C CNN
-F 2 "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" H 9325 2000 50  0001 C CNN
+F 2 "" H 9325 2000 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 9425 2100 50  0001 C CNN
 	3    9375 1900
 	1    0    0    -1  
@@ -940,7 +940,7 @@ U 4 1 5E2A768F
 P 9375 3750
 F 0 "U1" H 9375 4117 50  0000 C CNN
 F 1 "LM2902" H 9375 4026 50  0000 C CNN
-F 2 "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" H 9325 3850 50  0001 C CNN
+F 2 "" H 9325 3850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 9425 3950 50  0001 C CNN
 	4    9375 3750
 	1    0    0    -1  
@@ -951,7 +951,7 @@ U 5 1 5E2AA938
 P 7050 5350
 F 0 "U1" H 7008 5396 50  0000 L CNN
 F 1 "LM2902" H 7008 5305 50  0000 L CNN
-F 2 "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" H 7000 5450 50  0001 C CNN
+F 2 "" H 7000 5450 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 7100 5550 50  0001 C CNN
 	5    7050 5350
 	1    0    0    -1  
